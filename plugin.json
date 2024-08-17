@@ -1,0 +1,27 @@
+{
+  "slug": "Metastable",
+  "name": "Metastable",
+  "version": "2.0.0",
+  "license": "CC-BY-NC-SA-4.0",
+  "brand": "Metastable",
+  "author": "Daniel Christiansen",
+  "authorEmail": "christiansen.daniel@gmail.com",
+  "authorUrl": "dmchristiansen.com",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "https://github.com/dmchristiansen/Metastable",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "FDM",
+      "name": "FDM",
+      "description": "Scanned-synthesis oscillator",
+      "manualUrl": "",
+      "tags": [
+        "VCO",
+        "Physical modeling"
+      ]
+    }
+  ]
+}
